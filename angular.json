@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "arq-mf-webcomp"
+    }
+  },
+  "defaultProject": "arq-mf-webcomp",
+  "cli": {
+    "analytics": false
+  }
 }
